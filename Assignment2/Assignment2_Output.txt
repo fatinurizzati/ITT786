@@ -1,0 +1,402 @@
+$javac TestThread.java
+$java -Xmx128M -Xms16M TestThread
+Creating Thread-1
+Starting Thread-1
+Creating Thread-2
+Starting Thread-2
+Creating Thread-3
+Running Thread-1
+Running Thread-2
+Starting Thread-3
+Creating Thread-4
+Starting Thread-4
+Running Thread-3
+Creating Thread-5
+Starting Thread-5
+Running Thread-4
+Creating Thread-6
+Starting Thread-6
+Running Thread-5
+Creating Thread-7
+Starting Thread-7
+Running Thread-6
+Creating Thread-8
+Starting Thread-8
+Running Thread-7
+Creating Thread-9
+Starting Thread-9
+Running Thread-8
+Creating Thread-10
+Starting Thread-10
+Running Thread-9
+Creating Thread-11
+Starting Thread-11
+Running Thread-10
+Creating Thread-12
+Starting Thread-12
+Running Thread-11
+Creating Thread-13
+Starting Thread-13
+Running Thread-12
+Creating Thread-14
+Starting Thread-14
+Running Thread-13
+Creating Thread-15
+Starting Thread-15
+Creating Thread-16
+Starting Thread-16
+Running Thread-14
+Running Thread-15
+Creating Thread-17
+Starting Thread-17
+Running Thread-16
+Creating Thread-18
+Starting Thread-18
+Running Thread-17
+Creating Thread-19
+Starting Thread-19
+Running Thread-18
+Creating Thread-20
+Starting Thread-20
+Running Thread-19
+Creating Thread-21
+Starting Thread-21
+Running Thread-20
+Creating Thread-22
+Starting Thread-22
+Running Thread-21
+Creating Thread-23
+Starting Thread-23
+Running Thread-22
+Creating Thread-24
+Starting Thread-24
+Running Thread-23
+Creating Thread-25
+Starting Thread-25
+Running Thread-24
+Creating Thread-26
+Starting Thread-26
+Running Thread-25
+Creating Thread-27
+Starting Thread-27
+Creating Thread-28
+Starting Thread-28
+Running Thread-26
+Creating Thread-29
+Starting Thread-29
+Running Thread-27
+Running Thread-28
+Creating Thread-30
+Starting Thread-30
+Running Thread-29
+Creating Thread-31
+Starting Thread-31
+Running Thread-30
+Creating Thread-32
+Starting Thread-32
+Running Thread-31
+Creating Thread-33
+Starting Thread-33
+Running Thread-32
+Creating Thread-34
+Starting Thread-34
+Running Thread-33
+Creating Thread-35
+Starting Thread-35
+Running Thread-34
+Creating Thread-36
+Starting Thread-36
+Running Thread-35
+Creating Thread-37
+Starting Thread-37
+Running Thread-36
+Creating Thread-38
+Starting Thread-38
+Running Thread-37
+Creating Thread-39
+Starting Thread-39
+Running Thread-38
+Creating Thread-40
+Starting Thread-40
+Running Thread-39
+Creating Thread-41
+Starting Thread-41
+Running Thread-40
+Creating Thread-42
+Starting Thread-42
+Running Thread-41
+Creating Thread-43
+Starting Thread-43
+Creating Thread-44
+Running Thread-42
+Starting Thread-44
+Creating Thread-45
+Starting Thread-45
+Running Thread-43
+Running Thread-44
+Creating Thread-46
+Starting Thread-46
+Running Thread-45
+Creating Thread-47
+Starting Thread-47
+Creating Thread-48
+Starting Thread-48
+Running Thread-46
+Creating Thread-49
+Starting Thread-49
+Running Thread-47
+Creating Thread-50
+Starting Thread-50
+Running Thread-48
+Running Thread-49
+Creating Thread-51
+Starting Thread-51
+Running Thread-50
+Creating Thread-52
+Starting Thread-52
+Running Thread-51
+Creating Thread-53
+Starting Thread-53
+Running Thread-52
+Creating Thread-54
+Starting Thread-54
+Running Thread-53
+Creating Thread-55
+Starting Thread-55
+Creating Thread-56
+Starting Thread-56
+Running Thread-54
+Creating Thread-57
+Starting Thread-57
+Running Thread-55
+Running Thread-56
+Creating Thread-58
+Starting Thread-58
+Creating Thread-59
+Starting Thread-59
+Running Thread-57
+Running Thread-58
+Creating Thread-60
+Starting Thread-60
+Running Thread-59
+Creating Thread-61
+Starting Thread-61
+Running Thread-60
+Creating Thread-62
+Starting Thread-62
+Running Thread-61
+Creating Thread-63
+Starting Thread-63
+Running Thread-62
+Creating Thread-64
+Starting Thread-64
+Running Thread-63
+Running Thread-64
+Creating Thread-65
+Starting Thread-65
+Creating Thread-66
+Starting Thread-66
+Running Thread-65
+Creating Thread-67
+Starting Thread-67
+Creating Thread-68
+Starting Thread-68
+Running Thread-66
+Running Thread-67
+Creating Thread-69
+Starting Thread-69
+Creating Thread-70
+Starting Thread-70
+Running Thread-68
+Running Thread-69
+Creating Thread-71
+Starting Thread-71
+Running Thread-70
+Creating Thread-72
+Starting Thread-72
+Creating Thread-73
+Starting Thread-73
+Running Thread-71
+Creating Thread-74
+Starting Thread-74
+Running Thread-72
+Creating Thread-75
+Starting Thread-75
+Running Thread-73
+Creating Thread-76
+Starting Thread-76
+Running Thread-74
+Running Thread-75
+Creating Thread-77
+Starting Thread-77
+Creating Thread-78
+Starting Thread-78
+Running Thread-76
+Running Thread-77
+Creating Thread-79
+Starting Thread-79
+Creating Thread-80
+Starting Thread-80
+Running Thread-78
+Creating Thread-81
+Starting Thread-81
+Running Thread-79
+Creating Thread-82
+Starting Thread-82
+Running Thread-80
+Creating Thread-83
+Starting Thread-83
+Running Thread-81
+Running Thread-82
+Creating Thread-84
+Starting Thread-84
+Creating Thread-85
+Starting Thread-85
+Running Thread-83
+Running Thread-84
+Creating Thread-86
+Starting Thread-86
+Running Thread-85
+Creating Thread-87
+Starting Thread-87
+Creating Thread-88
+Running Thread-86
+Starting Thread-88
+Creating Thread-89
+Running Thread-87
+Starting Thread-89
+Running Thread-88
+Creating Thread-90
+Starting Thread-90
+Running Thread-89
+Creating Thread-91
+Starting Thread-91
+Running Thread-90
+Creating Thread-92
+Starting Thread-92
+Running Thread-91
+Creating Thread-93
+Starting Thread-93
+Creating Thread-94
+Starting Thread-94
+Running Thread-92
+Running Thread-93
+Creating Thread-95
+Starting Thread-95
+Creating Thread-96
+Starting Thread-96
+Running Thread-94
+Running Thread-95
+Creating Thread-97
+Starting Thread-97
+Creating Thread-98
+Starting Thread-98
+Running Thread-96
+Creating Thread-99
+Starting Thread-99
+Running Thread-97
+Creating Thread-100
+Starting Thread-100
+Running Thread-98
+Running Thread-99
+Running Thread-100
+Thread Thread-1 exiting.
+Thread Thread-2 exiting.
+Thread Thread-3 exiting.
+Thread Thread-4 exiting.
+Thread Thread-5 exiting.
+Thread Thread-6 exiting.
+Thread Thread-7 exiting.
+Thread Thread-8 exiting.
+Thread Thread-9 exiting.
+Thread Thread-10 exiting.
+Thread Thread-11 exiting.
+Thread Thread-12 exiting.
+Thread Thread-13 exiting.
+Thread Thread-14 exiting.
+Thread Thread-15 exiting.
+Thread Thread-16 exiting.
+Thread Thread-17 exiting.
+Thread Thread-18 exiting.
+Thread Thread-19 exiting.
+Thread Thread-20 exiting.
+Thread Thread-21 exiting.
+Thread Thread-22 exiting.
+Thread Thread-23 exiting.
+Thread Thread-24 exiting.
+Thread Thread-25 exiting.
+Thread Thread-26 exiting.
+Thread Thread-27 exiting.
+Thread Thread-28 exiting.
+Thread Thread-34 exiting.
+Thread Thread-33 exiting.
+Thread Thread-30 exiting.
+Thread Thread-31 exiting.
+Thread Thread-35 exiting.
+Thread Thread-32 exiting.
+Thread Thread-29 exiting.
+Thread Thread-36 exiting.
+Thread Thread-37 exiting.
+Thread Thread-38 exiting.
+Thread Thread-39 exiting.
+Thread Thread-40 exiting.
+Thread Thread-41 exiting.
+Thread Thread-42 exiting.
+Thread Thread-43 exiting.
+Thread Thread-44 exiting.
+Thread Thread-45 exiting.
+Thread Thread-46 exiting.
+Thread Thread-47 exiting.
+Thread Thread-48 exiting.
+Thread Thread-49 exiting.
+Thread Thread-50 exiting.
+Thread Thread-51 exiting.
+Thread Thread-52 exiting.
+Thread Thread-53 exiting.
+Thread Thread-54 exiting.
+Thread Thread-55 exiting.
+Thread Thread-56 exiting.
+Thread Thread-58 exiting.
+Thread Thread-57 exiting.
+Thread Thread-59 exiting.
+Thread Thread-60 exiting.
+Thread Thread-61 exiting.
+Thread Thread-62 exiting.
+Thread Thread-63 exiting.
+Thread Thread-64 exiting.
+Thread Thread-65 exiting.
+Thread Thread-66 exiting.
+Thread Thread-67 exiting.
+Thread Thread-68 exiting.
+Thread Thread-69 exiting.
+Thread Thread-70 exiting.
+Thread Thread-71 exiting.
+Thread Thread-72 exiting.
+Thread Thread-73 exiting.
+Thread Thread-74 exiting.
+Thread Thread-75 exiting.
+Thread Thread-76 exiting.
+Thread Thread-77 exiting.
+Thread Thread-78 exiting.
+Thread Thread-79 exiting.
+Thread Thread-80 exiting.
+Thread Thread-81 exiting.
+Thread Thread-82 exiting.
+Thread Thread-83 exiting.
+Thread Thread-84 exiting.
+Thread Thread-85 exiting.
+Thread Thread-86 exiting.
+Thread Thread-87 exiting.
+Thread Thread-88 exiting.
+Thread Thread-89 exiting.
+Thread Thread-90 exiting.
+Thread Thread-91 exiting.
+Thread Thread-92 exiting.
+Thread Thread-93 exiting.
+Thread Thread-94 exiting.
+Thread Thread-95 exiting.
+Thread Thread-96 exiting.
+Thread Thread-97 exiting.
+Thread Thread-98 exiting.
+Thread Thread-99 exiting.
+Thread Thread-100 exiting.
