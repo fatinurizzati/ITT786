@@ -1,0 +1,60 @@
+
+// /**
+ // * Write a description of class ReadWriteFile here.
+ // *
+ // * FATIN NURIZZATI 
+ // * 07042018
+ // */
+
+import java.io.*;
+import java.util.Scanner;
+
+public class ReadWriteFile 
+{
+    public static void main(String [] args) throws IOException 
+    {
+        String fileName1 = "D:/Assignment1/ReadAndWriteFile/source.txt";
+        String fileName2 = "D:/Assignment1/ReadAndWriteFile/output.bin";
+    
+        String line = null;
+        //String line2 = null;
+    
+        // FileReader reads text files in the default encoding.
+        FileReader fileReader = 
+            new FileReader(fileName1);
+            
+        FileWriter fileWriter =
+            new FileWriter(fileName2);
+            
+        BufferedWriter bufferedWriter =
+                new BufferedWriter(fileWriter);
+                
+        // Always wrap FileReader in BufferedReader.
+        BufferedReader bufferedReader = 
+            new BufferedReader(fileReader);
+
+        while((line = bufferedReader.readLine()) != null) // sini loop, selagi line ada akan keep loop
+        {
+            System.out.println(line); // sini print line tgh loop
+            //line2 = line; // sini content dalam line2 akan keep berubah depend on line 
+            bufferedWriter.newLine();
+            bufferedWriter.write(line);
+        }
+        
+        bufferedWriter.newLine();
+        String s1 = new String();
+        
+        System.out.println("Enter input:");
+        Scanner user_input = new Scanner( System.in );
+        String dataIn;
+        dataIn = user_input.nextLine();
+        bufferedWriter.write(dataIn);
+            
+            String line2 =new String();
+            // The name of the file to open.
+    
+             // Always close files.
+             bufferedWriter.close();
+        
+    }
+}
